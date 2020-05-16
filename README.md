@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Timothy Bowen's Professional Portfoloio! 
+
+Please enjoy your stay and peruse and your own leisure!
 
 You can use the [editor on GitHub](https://github.com/TimmyBowenDigital/TimmyBowenDigital.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
